@@ -1,0 +1,7 @@
+.chart-container:hover {
+    transform: scale(1.05);
+}
+
+.chart-container {
+   transition: all 0.75s ease;
+}

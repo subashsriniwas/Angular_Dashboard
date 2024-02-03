@@ -1,0 +1,8 @@
+.chart-container {
+    padding: 20px;
+    transition: all 0.75s ease;
+  }
+
+  .chart-container:hover {
+    transform: scale(1.05);
+  }
