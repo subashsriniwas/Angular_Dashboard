@@ -1,6 +1,8 @@
 # A Simple Dasboard using Angular
 
-## Gaallery
+- The Dashboard shows the data about an Apple Store sales and products statistics.
+
+## Gallery:
 
 ![Screenshot 2024-02-03 191834](https://github.com/subashsriniwas/Angular_Dashboard/assets/132041545/cefb3c1b-357b-43c1-b6c2-d5a083f90515)
 
